@@ -38,6 +38,20 @@
         android:icon="@drawable/ic_settings_src"
         android:fragment="com.android.settings.chameleonos.ScreenRecorderSettings" />
 
+<<<<<<< HEAD
+=======
+    <PreferenceScreen
+        android:key="blacklist"
+        android:title="@string/blacklist_title"
+        android:icon="@drawable/ic_settings_blacklist"
+        android:fragment="com.android.settings.blacklist.BlacklistSettings" />
+
+    <PreferenceScreen
+        android:key="interface_battery_saver"
+        android:title="@string/battery_saver_title"
+        android:fragment="com.android.settings.AOSPAL.BatterySaverSettings" />
+
+>>>>>>> c88c197... [2/2] Squashed: Battery Saver mode
     <PreferenceCategory
         android:title="@string/remix_settings_interface_title">
 
