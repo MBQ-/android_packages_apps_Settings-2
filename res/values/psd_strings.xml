@@ -880,8 +880,6 @@ two in order to insert additional control points. \'Remove\' deletes the selecte
     <string name="partition_info_sdcard">/sdcard (FAT)</string>
     <string name="partition_info_sdext">/sd-ext (EXT)</string>
     <string name="partition_info_used_of">/</string>
-<<<<<<< HEAD
-=======
 
     <!-- Blacklist preferences -->
     <string name="blacklist_title">Blacklist</string>
@@ -986,5 +984,5 @@ two in order to insert additional control points. \'Remove\' deletes the selecte
     <string name="battery_saver_network_gsm_title">GSM Networks</string>
     <string name="battery_saver_network_cdma_title">CDMA Networks</string>
     <string name="battery_saver_system_title">System options</string>
->>>>>>> c88c197... [2/2] Squashed: Battery Saver mode
+
 </resources>
