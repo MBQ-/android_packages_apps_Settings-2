@@ -598,8 +598,6 @@
         <item>3500</item>
         <item>4000</item>
     </string-array>
-<<<<<<< HEAD
-=======
 
     <!-- Phone blacklist management -->
     <string-array name="blacklist_policy_unknown_entries" translatable="false">
@@ -707,5 +705,5 @@
         <item>5</item>
         <item>10</item>
     </string-array>
->>>>>>> c88c197... [2/2] Squashed: Battery Saver mode
+
 </resources>
